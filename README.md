@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Vaibhavi Garg 
 
 👩‍💻 I'm a B.Tech Computer Science student with a curious mind and a big appetite for technology.  
 Currently on a journey to build, break, and learn from real-world tech challenges.
